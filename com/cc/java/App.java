@@ -6,6 +6,7 @@ public class App {
     
     }
 
+    
 
     private static void output(String outputStr) {
         System.out.println(outputStr);
