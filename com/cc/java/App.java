@@ -4,22 +4,6 @@ public class App {
     
     public static void main(String[] args) {
     
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
         Konto konto1 = new Konto(10000);
         Konto konto2 = new Konto(10000);
         Konto konto3 = new Konto(10000);
@@ -37,7 +21,6 @@ public class App {
         output("Konto1: " + konto1.getKontostand());
         output("Konto2: " + konto2.getKontostand());
         output("Konto3: " + konto3.getKontostand());  
->>>>>>> b65b5cb44198ee2b89fec3ecec026c78dd85f370
     }
 
 
